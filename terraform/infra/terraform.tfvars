@@ -1,2 +1,2 @@
 name_prefix = "Blue"
-location    = "EastUS"
+location    = "swedencentral"

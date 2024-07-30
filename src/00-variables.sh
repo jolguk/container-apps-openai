@@ -4,7 +4,7 @@
 prefix="Blue"
 acrName="${prefix}Registry"
 acrResourceGrougName="${prefix}RG"
-location="northeurope"
+location="swedencentral"
 
 # Python Files
 docAppFile="doc.py"
