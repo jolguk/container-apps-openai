@@ -1,7 +1,7 @@
 # Variables
 
 # Azure Container Registry
-prefix="Blue"
+prefix="bluejolgukaca"
 acrName="${prefix}Registry"
 acrResourceGrougName="${prefix}RG"
 location="swedencentral"
